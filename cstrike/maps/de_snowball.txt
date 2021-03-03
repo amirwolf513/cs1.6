@@ -1,0 +1,9 @@
+de_snowball - Bomb/Defuse
+by 3BEPb Stas@dor.spb.ru
+
+Counter-Terrorists:prevent action of terrorists.
+
+Terrorists:As usually terrorists need to blow up
+or boxes with valuable things, or snowball!!! :)
+
+(Press FIRE to continue)
