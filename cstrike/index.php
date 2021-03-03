@@ -1,5 +1,4 @@
 <?php
 echo "server cs android:D";
-echo "";
-
 ?>
+<a href="https://webgoo.ir">کلیک کنید</a>
