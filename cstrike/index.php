@@ -1,6 +1,6 @@
 
-<a href="https://upweb.ir/index.php">متن نمونه برای لینک</a>
+<a href="https://t.me/amirwolf512">id Telegram</a>
 
 <?php
-echo "server cs android:D";
+echo "\nserver cs android:D";
 ?>
